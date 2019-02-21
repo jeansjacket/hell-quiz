@@ -1,0 +1,70 @@
+h1 {
+  font-family: 'PT Serif', serif;
+  font-size: 6rem;
+  margin-bottom: 1.25rem;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 1.3rem;
+  max-width: 60rem;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+form {
+  margin-top: 1rem;
+  max-width: 60rem;
+}
+
+label {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+
+input {
+  border-color: #586069;
+  max-width: 40rem;
+}
+
+.container {
+  padding-top: 5rem;
+  padding-left: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1280px;
+}
+
+.button-main {
+  background-color: #ED2939;
+  padding: 1rem;
+  font-size: 1rem;
+  color: #ffffff;
+  border: none;
+  border-radius: .25em;
+  margin-top: 1rem;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  min-width: 15rem;
+}
+
+
+.radio-group {
+  margin-top: 1rem;
+}
+
+.radio label {
+  font-size: 1rem !important;
+}
+
+.results {
+  margin-right: 5rem;
+}
