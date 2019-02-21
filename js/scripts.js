@@ -18,7 +18,11 @@ $(document).ready(function() {
     var nightmareInput = $("input:radio[name=nightmares]:checked").val();
     var passionInput = $("input:radio[name=passion]:checked").val();
 
-    $(".name").text(nameInput);
+    if (nameInput === "") {
+      $ (".name").text("Traveler");
+    } else {
+      $ (".name").text(nameInput);
+    }
 
     if (nameInput === "Satan") {
       $("#center").show();

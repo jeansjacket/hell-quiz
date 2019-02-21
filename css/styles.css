@@ -4,6 +4,12 @@ h1 {
   margin-bottom: 1.25rem;
 }
 
+h2 {
+  font-family: 'PT Serif', serif;
+  font-size: 3rem;
+  margin-bottom: 1.25rem;
+}
+
 h3 {
   font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
@@ -20,13 +26,17 @@ p {
 form {
   margin-top: 1rem;
   max-width: 60rem;
-  margin-bottom: 20rem;
+  margin-bottom: 10rem;
 }
 
 label {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.25rem;
   margin-bottom: 1rem;
+}
+
+label.field {
+  margin-top: 2rem;
 }
 
 
@@ -36,7 +46,7 @@ input {
 }
 
 .container {
-  padding-top: 5rem;
+  padding-top: 3.5rem;
   padding-left: 5rem;
   margin-left: auto;
   margin-right: auto;
@@ -59,7 +69,7 @@ input {
 
 
 .radio-group {
-  margin-top: 1rem;
+  margin-top: 2.5rem;
 }
 
 .radio label {
@@ -67,5 +77,9 @@ input {
 }
 
 .results {
-  margin-right: 5rem;
+  margin-right: 6rem;
+}
+
+#submit-quiz {
+  margin-top: 2.5rem;
 }
