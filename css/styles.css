@@ -99,12 +99,5 @@ input[type="radio"] {
   font-size: 1.7rem;
 }
 
-@media only screen and (min-width : 120px) and (max-width : 520px) {
-  h1 {
-    font-size: 150px;
-  }
-
-  h3 {
-    font-size: 50px !important;
-  }
+@media screen and (max-width : 520px) {
 }
