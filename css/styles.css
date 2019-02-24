@@ -99,8 +99,8 @@ input[type="radio"] {
   font-size: 1.7rem;
 }
 
-@media screen and (max-width : 520px) {
+/* @media screen and (max-width : 520px) {
   .container {
     margin-right: 10px;
-  }
+  } */
 }
