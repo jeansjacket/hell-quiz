@@ -1,3 +1,5 @@
+Here are the combinations I used to write the logic getting quiz-takers to their answers. I am positive there's a better way to do this—I just don't know it yet.
+
 Q1: Friends
 
 Magical -8
