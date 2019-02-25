@@ -1,3 +1,15 @@
+a {
+  color: #ED2939;
+}
+
+a:hover {
+  color: #282828;
+}
+
+body {
+  color: #282828;
+}
+
 h1 {
   font-family: 'PT Serif', serif;
   font-size: 8rem;
