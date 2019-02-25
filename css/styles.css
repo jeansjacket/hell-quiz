@@ -1,9 +1,9 @@
-a {
-  color: #ED2939;
+.results a {
+  color: #ED2939 !important;
 }
 
-a:hover {
-  color: #282828;
+.results a:hover {
+  color: #282828 !important;
 }
 
 body {
